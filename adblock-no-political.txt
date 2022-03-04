@@ -5,10 +5,12 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/adblock-no-political/adblock-no-political
 !
-reactjs.org#?#header>div:-abp-contains(Ukraine)
+! reactjs.org#?#header>div:-abp-contains(Ukraine)
+reactjs.org##.css-1loxuh3
 github.com#?#aside>.js-notice:-abp-contains(Ukraine)
 pytorch.org##.ecosystem-card
-relay.dev#?#.homeBanner:-abp-contains(Ukraine)
+! relay.dev#?#.homeBanner:-abp-contains(Ukraine)
+relay.dev##.homeBanner
 reactnative.dev##div[class^="announcementBar"]
 fblitho.com##div[class^="announcementBar"]
 jestjs.io##div[class^="announcementBar"]
