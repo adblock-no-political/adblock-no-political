@@ -5,6 +5,7 @@
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/adblock-no-political/adblock-no-political
 !
+##a[href="https://opensource.facebook.com/support-ukraine"]
 ! reactjs.org#?#header>div:-abp-contains(Ukraine)
 reactjs.org##.css-1loxuh3
 github.com#?#aside>.js-notice:-abp-contains(Ukraine)
@@ -19,3 +20,6 @@ create-react-app.dev##div[class^="announcementBar"]
 accounts.livechat.com##.sidebar-ua
 redux-saga.js.org##div[class^="announcementBar"]
 casl.js.org##.stop-war
+docusaurus.io##div[class^="banner"]
+opensource.fb.com##div[class^="banner"]
+facebook.github.io##div[class^="announcementBar"]
