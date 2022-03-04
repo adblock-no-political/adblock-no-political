@@ -1,0 +1,12 @@
+reactjs.org#?#header>div:-abp-contains(Ukraine)
+github.com#?#aside>.js-notice:-abp-contains(Ukraine)
+pytorch.org##.ecosystem-card
+relay.dev#?#.homeBanner:-abp-contains(Ukraine)
+reactnative.dev##div[class^='announcementBar']
+fblitho.com##div[class^='announcementBar']
+jestjs.io##div[class^='announcementBar']
+recoiljs.org##div[class^='announcementBar']
+create-react-app.dev##div[class^='announcementBar']
+accounts.livechat.com##.sidebar-ua
+redux-saga.js.org##div[class^='announcementBar']
+casl.js.org##.stop-war
