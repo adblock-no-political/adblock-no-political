@@ -2,7 +2,7 @@
 ! Version: 20220304
 ! Title: adblock-no-political
 ! Last modified: 20220304
-! Expires: 3 days (update frequency)
+! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/adblock-no-political/adblock-no-political
 !
 ##a[href="https://opensource.facebook.com/support-ukraine"]
