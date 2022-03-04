@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 20220304
+! Title: adblock-no-political
+! Last modified: 20220304
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/adblock-no-political/adblock-no-political
+!
 reactjs.org#?#header>div:-abp-contains(Ukraine)
 github.com#?#aside>.js-notice:-abp-contains(Ukraine)
 pytorch.org##.ecosystem-card
